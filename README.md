@@ -8,4 +8,5 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/claudemods/arch-calamare
 
 currently being tested
 
-![Screenshot_20250623_055817](https://github.com/user-attachments/assets/f3df2b20-b3c0-4e43-a828-7c3d9e04e56e)
+![Screenshot_archlinux_2025-06-23_19:32:39](https://github.com/user-attachments/assets/7f10e98f-6ce6-4fe7-8c36-d751eaee82d0)
+
