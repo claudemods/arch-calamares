@@ -1,5 +1,5 @@
 # custom-calamares
-forked from manjaro team and customized for custom arch systems
+forked from manjaro team and customized for cloned arch systems
 
 
 install plain arch calamares with support for all file systems
