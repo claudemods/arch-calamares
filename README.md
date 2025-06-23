@@ -2,5 +2,5 @@
 
 install plain arch calamares with support for all file systems
 
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/claudemods/arch-calamares/3.3.14.5/distros/plain/patch.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/claudemods/arch-calamares/refs/heads/main/3.3.14.5/distros/plain/patch.sh)"
 
