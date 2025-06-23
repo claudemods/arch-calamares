@@ -1,2 +1,2 @@
 # custom-calamares
-custom arch calamares
+just preparing custom calamares package with my artwork
