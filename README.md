@@ -3,8 +3,6 @@ forked from manjaro team and customized for cloned arch systems
 
 new upload 23-06-2025 works and installs 
 
-dependencies are chaotic aur or cachyos repos because of ckbcomp package
-
 ## [ Photos ](https://github.com/claudemods/arch-calamares/tree/main/photos)
 
 
