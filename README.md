@@ -1,6 +1,7 @@
 # custom-calamares
 forked from manjaro team and customized for cloned arch systems
-update 23-06-2025 it all works and installs 
+
+new upload 23-06-2025 works and installs 
 
 
 ## [ Photos ](https://github.com/claudemods/arch-calamares/tree/main/photos)
