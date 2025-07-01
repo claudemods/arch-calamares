@@ -11,3 +11,6 @@ tests show it works
 
 other uis
 
+new claudemods edition of calamares coming
+
+![Screenshot_20250701_222711](https://github.com/user-attachments/assets/6ebe86d0-c505-4c59-afcb-8a9031fe6b30)
