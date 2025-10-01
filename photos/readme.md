@@ -1,11 +1,3 @@
-plain ui
+plain ui all filesystems supported
 
-![Screenshot_20250623_194859](https://github.com/user-attachments/assets/f7af2f40-83ba-4afb-a369-df981f2fe157)
-
-
-
-other uis
-
-new claudemods edition of calamares coming
-
-![Screenshot_20250701_222711](https://github.com/user-attachments/assets/6ebe86d0-c505-4c59-afcb-8a9031fe6b30)
+<img width="1920" height="1200" alt="Screenshot_20251001_232538" src="https://github.com/user-attachments/assets/d979b2f9-4981-4c59-828b-4020d716d0a6" />
