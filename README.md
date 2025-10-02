@@ -8,8 +8,5 @@ new upload 01-10-2025 should work and install but needs testing
 install latest calamares 3.4.0.1 i provide which supports all file system formats: 
 
 ```
-
-
-
 bash -c "$(wget -qO- https://raw.githubusercontent.com/claudemods/arch-calamares/refs/heads/main/3.4.0.1/claudemods/patch.sh)"
 
