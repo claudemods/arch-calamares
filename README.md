@@ -6,7 +6,7 @@ please edit after install to your kernel /usr/share/calamares/modules/initcpio.c
 also edit the same in /etc/calamares/modules/initcpio.conf to e.g linux-zen linux or leave as linux-cachyos as it is default
 
 also edit 
-/etc/calamares/modules/unpackfs.conf and /usr/share/calamares/modules/unpackfs.conf/unpackfsc.conf 
+/etc/calamares/modules/unpackfs.conf and /usr/share/calamares/modules/unpackfs.conf and unpackfsc.conf 
 
 to the location of your .sfs if your not using my img iso creator 
 
