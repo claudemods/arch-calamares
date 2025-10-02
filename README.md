@@ -7,6 +7,7 @@ also edit the same in /etc/calamares/modules/initcpio.conf to e.g linux-zen linu
 
 also edit 
 /etc/calamares/modules/unpackfs.conf and /usr/share/calamares/modules/unpackfs.conf/unpackfsc.conf 
+
 to the location of your .sfs if your not using my img iso creator 
 
 ## [ Photos ](https://github.com/claudemods/arch-calamares/tree/main/photos)
