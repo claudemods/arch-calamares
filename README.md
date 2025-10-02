@@ -1,7 +1,8 @@
 # custom-calamares
 forked from manjaro team and customized for cloned arch systems
 
-please edit after install to your kernel /usr/share/calamares/modules/initcpio.conf also edit the same in /etc/calamares/modules/initcpio.conf to e.g linux-zen linux or leave as linux-cachyos as it is default
+please edit after install to your kernel /usr/share/calamares/modules/initcpio.conf 
+also edit the same in /etc/calamares/modules/initcpio.conf to e.g linux-zen linux or leave as linux-cachyos as it is default
 
 also edit 
 /etc/calamares/modules/unpackfs.conf and /usr/share/calamares/modules/unpackfs.conf/unpackfsc.conf 
